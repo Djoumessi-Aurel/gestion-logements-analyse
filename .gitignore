@@ -1,0 +1,53 @@
+# Fichiers temporaires et de cache
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*~
+
+# Archives et compressions
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Fichiers VS Code
+.vscode/
+*.code-workspace
+
+# IDE et éditeurs
+.idea/
+*.iml
+.DS_Store
+thumbs.db
+
+# Fichiers de configuration locale/privée
+*.local
+config.local.*
+connection.conf
+
+# Backups Oracle
+*.dmp
+*.exp
+*.aud
+audit_*.sql
+
+# Fichiers générés
+*_backup_*.sql
+*_old.sql
+
+# Fichiers sensibles
+credentials.txt
+passwords.txt
+*.env
+.env
+
+# Résultats et rapports temporaires
+results/
+reports/
+*.xlsx
+*.xls
+*.csv
