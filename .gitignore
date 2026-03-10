@@ -5,7 +5,9 @@
 *.bak
 *.swp
 *.swo
-*~
+*~*.tmp
+~$scription du projet.docx
+~WRL2712.tmp
 
 # Archives et compressions
 *.zip
