@@ -9,6 +9,8 @@
 ~$scription du projet.docx
 ~WRL2712.tmp
 
+documents/*.pdf
+
 # Archives et compressions
 *.zip
 *.tar
